@@ -1,0 +1,34 @@
+.candidates{
+	margin-top: 100px;
+}
+
+.candidates-pic{
+	width: 48px;
+}
+
+.candidate-details{
+	text-align: center;
+}
+
+.centered{
+	text-align: center;	
+}
+
+.d3board{
+	padding: 60px;
+	text-align: center;
+	margin: auto;
+}
+
+.logindiv{
+	float:right;
+	padding-top: 8px;
+}
+
+#login-sign-in-link{
+	text-decoration: none !important;
+	display: inline-block;
+	background: #fff;
+	color: #000;	
+	padding: 6px;
+}
